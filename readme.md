@@ -31,7 +31,7 @@ Supports all basic arithmetic operations, clear, delete, and live evaluation.
 
 ## 📸 Preview
 
-![App Preview](https://raw.githubusercontent.com/Qasim-Rokeeb/Stopwatch/main/screenshot.png)
+![App Preview](https://raw.githubusercontent.com/Qasim-Rokeeb/Calculator/main/screenshot.png)
 
 
 ---
